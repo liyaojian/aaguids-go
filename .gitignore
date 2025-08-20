@@ -1,0 +1,20 @@
+# idea
+.idea
+.DS_Store
+**/.DS_Store
+
+#vscode
+.vscode
+.vscode/
+
+.cache
+*.log
+logs/
+uploads/
+temp/
+cache/
+out/
+.VSCodeCounter
+
+# hash tools
+checksums-*_v1.0.0
